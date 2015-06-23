@@ -12,6 +12,6 @@ line 6
 
 line 7
 
-line 8 - to be deleted by branch2
+
 
 line 9

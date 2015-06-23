@@ -2,7 +2,7 @@ line 1
 
 line 2
 
-line 3 - to be modified by branch1
+line 3 - slight modification
 
 line 4
 
